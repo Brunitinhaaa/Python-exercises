@@ -1,0 +1,10 @@
+print('arithmetic operators:')
+
+print('division /')
+print('multiplication *')
+print('sum +')
+print('subtraction -')
+print('power ** or pow(n, n)')
+print('integer division //')
+print('remainder of division %')
+print('square root n**(1/2)')
