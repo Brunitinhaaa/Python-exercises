@@ -1,4 +1,5 @@
-![image](https://github.com/Brunitinhaaa/Python-exercicios/assets/104976135/766c8e40-9f86-49f9-9625-e2571e2c339a)
+
+![Design_sem_nome_2](https://github.com/Brunitinhaaa/Python-exercicios/assets/104976135/c942a241-2fce-412f-9270-d5a6c5199e14)
 
 # Python-exercicios
 
