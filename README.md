@@ -13,7 +13,7 @@ Este repositório contém os exercícios e projetos desenvolvidos nos Módulos 1
 - Conceitos básicos, variáveis, condicionais, loops e funções.
 
 ### Módulo 2: Estruturas de Controle
-- Loops avançados, condicionais aninhadas e funções complexas.
+- Loops, condicionais aninhadas e funções.
 
 ### Módulo 3: Manipulação de Dados
 - Leitura/escrita de arquivos, bibliotecas externas e manipulação de strings.
