@@ -25,10 +25,8 @@ O objetivo deste repositório é consolidar o conhecimento adquirido nos Módulo
 ## Como Usar
 
 1. Clone este repositório.
-2. Acesse a pasta do módulo desejado.
-3. Encontre exercícios organizados por tópicos em arquivos Python.
-4. Leia a descrição, resolva o exercício e compare com as soluções fornecidas.
-5. Crie seus próprios projetos relacionados aos conceitos aprendidos.
+2. Encontre exercícios organizados por ordem crescente.
+3. Execute os arquivos e veja sua funcionalidade no terminal de sua preferencia.
 
 ## Créditos
 
