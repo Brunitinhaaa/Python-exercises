@@ -1,33 +1,31 @@
 
 ![Design_sem_nome_2](https://github.com/Brunitinhaaa/Python-exercicios/assets/104976135/c942a241-2fce-412f-9270-d5a6c5199e14)
 
-# Python-exercicios
+## Description
 
-## Descrição
+This repository contains the exercises and projects developed in Modules 1, 2, and 3 of the Python course taught by Gustavo Guanabara. The modules cover fundamental Python concepts and their practical application.
 
-Este repositório contém os exercícios e projetos desenvolvidos nos Módulos 1, 2 e 3 do curso de Python ministrado por Gustavo Guanabara. Os módulos cobrem conceitos fundamentais do Python e sua aplicação prática.
+## Repository Structure
 
-## Estrutura do Repositório
+### Module 1: Introduction to Python
+- Basic concepts, variables, conditionals, loops, and functions.
 
-### Módulo 1: Introdução ao Python
-- Conceitos básicos, variáveis, condicionais, loops e funções.
+### Module 2: Control Structures
+- Loops, nested conditionals, and functions.
 
-### Módulo 2: Estruturas de Controle
-- Loops, condicionais aninhadas e funções.
+### Module 3: Data Manipulation
+- Reading/writing files, external libraries, and string manipulation.
 
-### Módulo 3: Manipulação de Dados
-- Leitura/escrita de arquivos, bibliotecas externas e manipulação de strings.
+## Objectives
 
-## Objetivos
+The goal of this repository is to consolidate the knowledge acquired in Modules 1, 2, and 3 of the Python course. The exercises cover everything from programming logic to data manipulation.
 
-O objetivo deste repositório é consolidar o conhecimento adquirido nos Módulos 1, 2 e 3 do curso de Python. Os exercícios abrangem desde lógica de programação até manipulação de dados.
+## How to Use
 
-## Como Usar
+1. Clone this repository.
+2. Find exercises organized in increasing order.
+3. Run the files and see their functionality in your preferred terminal.
 
-1. Clone este repositório.
-2. Encontre exercícios organizados por ordem crescente.
-3. Execute os arquivos e veja sua funcionalidade no terminal de sua preferencia.
+## Credits
 
-## Créditos
-
-Curso ministrado por Gustavo Guanabara.
+Course taught by Gustavo Guanabara.
