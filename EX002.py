@@ -1,9 +1,9 @@
-"""
+
 name = input('whats your name? ')
 print('Hello',name,'! Welcome to our first program!')
-"""
 
-#FORMAT
+print('FORMAT')
 
-nome = input('Digite o nome')
-print(f'Nome recebido usando format: {nome}')
+name2 = input('Type your name:')
+print(f'Name recived using format: {name2}')
+
