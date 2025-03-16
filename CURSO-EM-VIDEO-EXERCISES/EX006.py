@@ -19,5 +19,5 @@ print('or:')
 
 variables = {'s': s, 'm': m, 'd': d, 'di': di, 'rd': rd}
 
-for name, value in variables.items():
-    print(f'Type of {name}: {type(value)}')
+for variable, value in variables.items():
+    print(f'Type of {variable}: {type(value)}')

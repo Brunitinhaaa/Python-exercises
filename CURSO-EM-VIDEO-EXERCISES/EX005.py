@@ -7,4 +7,4 @@ print('hello {:>20}!' .format(name))
 print('hello {:^20}!' .format(name))
 print('hello {:=^20}!' .format(name))
 
-print('='*20)
+print('='*27)
