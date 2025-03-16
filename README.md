@@ -1,6 +1,4 @@
 
-![Design_sem_nome_2](https://github.com/Brunitinhaaa/Python-exercicios/assets/104976135/c942a241-2fce-412f-9270-d5a6c5199e14)
-
 ## Description
 
 This repository contains the exercises and projects developed in Modules 1, 2, and 3 of the Python course taught by Gustavo Guanabara. The modules cover fundamental Python concepts and their practical application.
