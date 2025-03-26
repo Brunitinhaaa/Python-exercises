@@ -1,18 +1,14 @@
-#BIG O NOTATION
+import pygame
 
-def binary_search(list, item):
-    low = 0
-    high = len(list) - 1
+pygame.init()
+pygame.mixer.init()
 
-    while low <= high:
-        mid = (low + high) // 2
-        attempt = list[mid]
-        
-        if attempt == item:
-            return mid
-        elif attempt > item:
-            high = mid - 1
-        else:
-            low = mid + 1
-    
-    return None
+pygame.mixer.music.load('D:/ESTUDOS/PYTHON/Python-exercicios/CURSO-EM-VIDEO-EXERCISES/ex026.mp3')
+
+pygame.mixer.music.play()
+print("Let's listen to music using Python modules")
+
+while pygame.mixer.music.get_busy(): 
+    pygame.time.Clock().tick(10)
+
+print("Music has finished playing!")
